@@ -1,10 +1,10 @@
-Here’s a well-organized study guide tailored to help your wife strengthen her foundational software development knowledge, explaining what to study, why, and how:
+Study guide tailored to help you strengthen your foundational software development knowledge, explaining what to study, why, and how:
 
 ---
 
 ### **1. Source Code Management (Git)**
 #### **Why**
-Version control is essential for collaboration and managing changes in codebases. Understanding Git empowers her to lead teams better and participate in technical discussions.
+Version control is essential for collaboration and managing changes in codebases. Understanding Git empowers you to lead teams better and participate in technical discussions.
 #### **What to Learn**
 - Basics of Git: repositories, commits, branches, merging.
 - Using Git tools like GitHub or GitLab.
@@ -17,7 +17,7 @@ Version control is essential for collaboration and managing changes in codebases
 
 ### **2. Software Development Lifecycle (SDLC)**
 #### **Why**
-Understanding the stages of software development (planning, design, implementation, testing, deployment) helps her communicate effectively with teams.
+Understanding the stages of software development (planning, design, implementation, testing, deployment) helps you communicate effectively with teams.
 #### **What to Learn**
 - Agile methodology, Scrum, and Kanban.
 - Software delivery pipelines.
@@ -41,7 +41,7 @@ Testing ensures quality. As a PM, knowing the types and importance of testing bu
 
 ### **4. Servers and Linux Basics**
 #### **Why**
-Deployment and debugging often require working with servers, and Linux is widely used. Understanding this improves her grasp of the development environment.
+Deployment and debugging often require working with servers, and Linux is widely used. Understanding this improves your grasp of the development environment.
 #### **What to Learn**
 - Basic Linux commands.
 - Setting up and deploying a simple web server (e.g., Nginx).
@@ -53,7 +53,7 @@ Deployment and debugging often require working with servers, and Linux is widely
 
 ### **5. Continuous Integration/Continuous Deployment (CI/CD)**
 #### **Why**
-CI/CD ensures smoother software delivery. Knowing it helps her plan timelines and address blockers effectively.
+CI/CD ensures smoother software delivery. Knowing it helps you plan timelines and address blockers effectively.
 #### **What to Learn**
 - What CI/CD is and its benefits.
 - Setting up CI/CD pipelines (e.g., GitHub Actions, Jenkins).
@@ -65,7 +65,7 @@ CI/CD ensures smoother software delivery. Knowing it helps her plan timelines an
 
 ### **6. Backend Basics**
 #### **Why**
-Understanding backend concepts bridges gaps in her knowledge of full-stack systems.
+Understanding backend concepts bridges gaps in you knowledge of full-stack systems.
 #### **What to Learn**
 - What a server does.
 - REST APIs and database interactions (CRUD).
@@ -77,7 +77,7 @@ Understanding backend concepts bridges gaps in her knowledge of full-stack syste
 
 ### **7. Deployment Fundamentals**
 #### **Why**
-To understand how code moves from development to production, enabling her to plan effectively.
+To understand how code moves from development to production, enabling you to plan effectively.
 #### **What to Learn**
 - Deployment processes (manual and automated).
 - Introduction to Docker for containerization.
